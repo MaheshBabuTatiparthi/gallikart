@@ -16,7 +16,7 @@ $config["app-desc"]			= "General Studies App for Android" ; //Write a brief desc
 $config["utf8"]				= true; 
 $config["debug"]			= false; 
 $config["protect"]			= false; 
-$config["url"]			= "https://192.168.43.41/generalstudies/restapi.php"; 
+$config["url"]			= "https://gallikart.herokuapp.com/restapi.php"; 
 $config["timezone"]			= "Asia/Kolkata" ; // check this site: http://php.net/manual/en/timezones.php
 $config["gzip"]			= false; //compressed page 
 
