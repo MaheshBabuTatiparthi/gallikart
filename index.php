@@ -22,10 +22,10 @@ $config["debug"]			= false;
 $config["gzip"]			= false; //compressed page 
 
 /** mysql **/
-$config["db_host"]				= "localhost" ; //host
-$config["db_user"]				= "root" ; //Username SQL
-$config["db_pwd"]				= "123456" ; //Password SQL
-$config["db_name"]			= "db_general_studies" ; //Database
+$config["db_host"]				= "us-cdbr-east-02.cleardb.com" ; //host
+$config["db_user"]				= "b022723ead205b" ; //Username SQL
+$config["db_pwd"]				= "8cfe1cb9" ; //Password SQL
+$config["db_name"]			= "heroku_a7ba64e758e9b5e" ; //Database
 
 /** onesignal **/
 $config["onesignal_app_id"]				= "7911f20c-ac65-46f7-bc61-0b788280804e" ; //Your OneSignal AppId, available in OneSignal https://documentation.onesignal.com/docs/generate-a-google-server-api-key
