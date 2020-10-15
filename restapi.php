@@ -1,5 +1,6 @@
 <?php
-/**
+
+/**
  * @author Mahesh Babu <app@godigitally.co.in>
  * @copyright Go Digitally 2020
  * @package general-studies
@@ -20,10 +21,10 @@ $config["timezone"]			= "Asia/Kolkata" ; // check this site: http://php.net/manu
 $config["gzip"]			= false; //compressed page 
 
 /** mysql **/
-$config["db_host"]				= "localhost" ; //host
-$config["db_user"]				= "root" ; //Username SQL
-$config["db_pwd"]				= "123456" ; //Password SQL
-$config["db_name"]			= "db_general_studies" ; //Database
+$config["db_host"]				= "us-cdbr-east-02.cleardb.com" ; //host
+$config["db_user"]				= "b022723ead205b" ; //Username SQL
+$config["db_pwd"]				= "8cfe1cb9" ; //Password SQL
+$config["db_name"]			= "heroku_a7ba64e758e9b5e" ; //Database
 
 
 /** DON'T EDIT THE CODE BELLOW **/
